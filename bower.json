@@ -1,0 +1,20 @@
+{
+  "name": "3rl",
+  "version": "0.0.1",
+  "authors": [
+    "Michael Mackus <michaelmackus@gmail.com>"
+  ],
+  "description": "Simple threejs roguelike",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*"
+  }
+}
